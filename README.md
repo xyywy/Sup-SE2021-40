@@ -1,6 +1,6 @@
 # Sup-SE2021-40
 Supplementary code asset for article "Reflection tomography by depth warping: A case study across the Java trench" on Solid Earth (SE-2021-40) 
-(Xia et al., doi.org/10.5194/se-2021-40).
+(Xia et al., 2021, doi.org/10.5194/se-2021-40).
 
 The scripts and Jupyter Notebooks provide the mathematical implementations of the depth variant displacement correction, and the automatic residual move-out(RMO) tracking.
 
