@@ -8,6 +8,5 @@ For both NRM and PWD displacement fields, a simple and a complex synthetic examp
 
 Python (3.7-3.8), OBSpy (1.2.1-1.2.2), Numpy, and Scipy are needed dependencies before executing the code. The input data directory ("inputdata_withavo") is needed to be placed at the same directory level as the scripts. 
 
-The IPython notebook file (*.ipynb) provides the interactive coding interface of the Python source code (*.py).
-
+The IPython (Jupyter) notebook (*.ipynb) is an open-source web-based script that allows you to read the interactive coding of the source code (*.py) with PC browser.
 We suggested to use the Anaconda to build the Python environment. 
